@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "mobile-flashcards",
+    "description": "The best app learning and evaluating yourself.",
+    "slug": "mobileflashcards",
+    "sdkVersion": "30.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "notification": {
+      "icon": "./assets/icon.png"
+    },
+    "ios": {
+     "bundleIdentifier": "org.mobileflashcards.exp",
+    },
+    "android": {
+     "package": "org.mobileflashcards.exp",
+    },
+  },
+}
